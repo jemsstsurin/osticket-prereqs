@@ -93,6 +93,8 @@ From the "osTicket-Installation-Files" folder you install MySQL 5.5.62. Then you
 
 ![image](https://github.com/user-attachments/assets/55bff808-1b1b-4e89-8d9c-4bbbc24959ac)
 
+![image](https://github.com/user-attachments/assets/198db738-c08c-4cc1-aa4f-44b1e3a3b2a6)
+
 <p>
 
 </p>

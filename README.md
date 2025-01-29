@@ -24,8 +24,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enable Internet Information Services
 - Install Web Platform Installer
-- Intall MySQL/Setup Username and Password
-- Install C++ Redistributal
+- Install Visual C++ Redistributal
+- Intsall MySQL/Setup Username and Password
 - Configure Permission and install osTicket
 
 <h2>Installation Steps</h2>
@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 
 </p>
-<p>To enalbe IIS you open the Control Panel then go to Programs and within that on the left you clicked Turns Windows Features. Then you check the Internet Information Services box then click the expand box. Next you click the World Wide Web Services. Within that you click Application Development and then you click CGI.
+<p>To enable IIS you open the Control Panel then go to Programs and within that on the left you clicked Turns Windows Features. Then you check the Internet Information Services box then click the expand box. Next you click the World Wide Web Services. Within that you click Application Development and then you click CGI.
 </p>
 <br />
 
@@ -53,11 +53,14 @@ First you go into osTicket Installation file to install PHP Manager then from wi
 </p>
 <br />
 
+
+![image](https://github.com/user-attachments/assets/1822de46-ffde-4ff1-95ab-9b8ae685a343)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the "osTicket-Installation-Files" folder install VC_redist.x86.
 </p>
 <br />
 

@@ -30,11 +30,14 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+
+![image](https://github.com/user-attachments/assets/9d7a109e-620c-4357-9012-e78d04e3ef1c)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<p>To enalbe IIS I opened the Control Panel then went to Programs and within that on the left I clicked Turns Windows Features on or off. Then you check the Internet Information Services box 
+then click the expand box. then you click the world wide web services. Within that you click Application Development and the you click CGI
 </p>
 <br />
 

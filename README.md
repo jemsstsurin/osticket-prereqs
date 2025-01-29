@@ -64,8 +64,14 @@ From the "osTicket-Installation-Files" folder install VC_redist.x86.
 </p>
 <br />
 
+
+![image](https://github.com/user-attachments/assets/1c9cf2eb-da6b-44c9-b622-864b6d53a394)
+
+
+![image](https://github.com/user-attachments/assets/be354b7d-e14f-49e3-bd9f-e65e2b36bb81)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.

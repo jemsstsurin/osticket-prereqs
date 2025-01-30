@@ -79,11 +79,7 @@ From the "osTicket-Installation-Files" folder you install MySQL 5.5.62. Then you
 <br />
 
 
-![image](https://github.com/user-attachments/assets/2ce15125-ed39-48bb-bb1e-7038af118a22)
-
 ![image](https://github.com/user-attachments/assets/08d69d08-8a02-42c4-9fb4-a4e69435cd99)
-
-![image](https://github.com/user-attachments/assets/3559bb7d-810e-4062-a119-5b0947638155)
 
 ![image](https://github.com/user-attachments/assets/9a8aecd4-940b-4bec-bb8e-d2be39769326)
 
@@ -99,7 +95,8 @@ From the "osTicket-Installation-Files" folder you install MySQL 5.5.62. Then you
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open IIS as an Admin. Then you open and register PHP from within the IIS. Next you reload IIS. Next to install osTicket, From the "osTicket-Installation-Files" folder unzip “osTicket-v1.15.8.zip” and copy the “upload” folder into “c:\inetpub\wwwroot” and rename folder "upload" to "osTicket". Reload IIS and then go "site" "default site" then "osTicket". Go to PHP Manager then click “Enable or Disable an Extension” then Enable: php_imap.dll Enable: php_intl.dll Enable: php_opcache.dll. then refresh osTicket in browser. 
+In C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php change sampleconfig.php to ost-config.php. To assign permission got to ost-config.php then to Disable Inheritance then click Remove All Then New Permission then go to Everybody and click All
 </p>
 <br />
 
